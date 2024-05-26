@@ -20,6 +20,12 @@
     cursor: pointer;
     border: 0;
 }
+.section-title{
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+}
+
 /* header styles */
 header{
     background-color: bisque;
@@ -30,11 +36,7 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
-.nav-title{
-    font-size: 48px;
-    font-weight: 700;
-    color: black;
-}
+
 nav > ul{
     display: flex;
 }
